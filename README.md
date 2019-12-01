@@ -1,1 +1,0 @@
-# jpatricio.github.io
