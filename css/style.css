@@ -251,7 +251,7 @@ a:hover {
 }
 
 .bg-primary {
-  background: #41228e !important;
+  background: #ff8b94 !important;
 }
 
 .bg-gray {
@@ -426,7 +426,7 @@ textarea.form-control {
 }
 
 .navigation.nav-bg {
-  background-color: #41228e;
+  background-color: #ff8b94;
   padding: 15px 100px;
 }
 
@@ -907,4 +907,16 @@ blockquote {
   font-weight: bold;
 }
 
-/*# sourceMappingURL=maps/style.css.map */
+/*# Custom stuff by me */
+.text {
+    color: #20557e !important;
+}
+
+.bg-secondary{
+    background-color: #97ebdb !important;
+}
+
+.paragraph-xl {
+    font-size: 30px;
+    font-weight: bold;
+}
